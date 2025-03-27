@@ -33,7 +33,7 @@ git clone https://github.com/jaiganesh0312/Memory-game
 
 ### 2. Navigate to the project directory
 ```bash
-cd memory-game
+cd Memory-game
 ```
 
 ### 3. Install dependencies
